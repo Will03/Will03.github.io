@@ -37,9 +37,10 @@ SSL socket
 - 2018 台科大電腦研習社 - python 爬蟲 ( 4hr )
 
 ### AWARDED
-- 2020 HITCON X BALSN 資安交流經典賽 1st 2020 InnoServe Security Group 1st
+- 2020 HITCON X BALSN 資安交流經典賽 1st 
+- 2020 InnoServe Security Group 1st
 - 2020 IoT sandbox final 9th
-- 2020 金盾獎 展露頭角獎
+- 2020 金盾獎 嶄露頭角獎
 - 2020 AIS3 EOF Final 9th 
 - 2018 AIS3 MyFirstCTF 1st
 
