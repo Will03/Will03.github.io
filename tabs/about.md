@@ -40,7 +40,8 @@ SSL socket
 - 2020 HITCON X BALSN 資安交流經典賽 1st 2020 InnoServe Security Group 1st
 - 2020 IoT sandbox final 9th
 - 2020 金盾獎 展露頭角獎
-- 2020 AIS3 EOF Final 9th 2018 AIS3 MyFirstCTF 1st
+- 2020 AIS3 EOF Final 9th 
+- 2018 AIS3 MyFirstCTF 1st
 
 ### Academic publication
 - 2020 IEEE S&P (poster accept)
