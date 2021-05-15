@@ -36,7 +36,7 @@ SSL socket
 - 2019 台科大資訊安全導論 - Beginning of CTF ( 3hr )
 - 2018 台科大電腦研習社 - python 爬蟲 ( 4hr )
 
-### Awarded
+### AWARDED
 - 2020 HITCON X BALSN 資安交流經典賽 1st 2020 InnoServe Security Group 1st
 - 2020 IoT sandbox final 9th
 - 2020 金盾獎 展露頭角獎
