@@ -11,30 +11,34 @@ title: About
 黃智威 ( Jr-Wei Huang ) a.k.a. in0de, Will
 
 目前就讀台灣科技大學資工所, Connectivity Lab
-主要研究主題: IoT firmware security、IoT malware analysis
+主要研究主題: IoT firmware security、malware analysis
 
 ### SKILL
 - Programing Language
-    - c, c++, assembly, python
+    - C, C++, assembly, python
 
 - Debugging Tools
-    - gdb, ida pro, radare2, x64 dbg, intel pin
+    - GDB, IDA Pro, Radare2, x64dbg, Frida
 
 - Familiar with
-    - ELF, PE, Firmware, Reverse Engineering,
-SSL socket
+    - ELF, PE, Firmware, Reverse Engineering
 
 ### INTERN
 - 2020 TEAM T5-杜浦數位安全有限公司, Intern
 - 2019 NICT-日本情報通信研究機構, Intern
 - 2018 安華聯網科技股份有限公司, Intern
 
+### Reported CVE
+- CVE-2021-1602 (Remote Command Execution Vulnerability)
+
 ### TRAINING
+- 2021 企業教育訓練 - Dynamic Symbolic Execution in IoT ( 6hr )
+- 2021 企業教育訓練 - Windows Reversing ( 6hr )
 - 2021 教育部資訊安全人才培育計畫-網路攻防暨逆向工程工作坊 -Target Attack Analysis and Incident Response ( 3hr )
-- 2020 台科大資安社 - IoT malware analysis ( 2hr )
-- 2020 台科大網路安全 - HTTPS introduce ( 3hr )
+- 2020 台科大資安社 - IoT Malware Analysis ( 2hr )
+- 2020 台科大網路安全 - HTTPS Introduce ( 3hr )
 - 2019 台科大資訊安全導論 - Beginning of CTF ( 3hr )
-- 2018 台科大電腦研習社 - python 爬蟲 ( 4hr )
+- 2018 台科大電腦研習社 - Python 爬蟲 ( 4hr )
 
 ### AWARDED
 - 2020 HITCON X BALSN 資安交流經典賽 1st 
