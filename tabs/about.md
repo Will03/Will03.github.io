@@ -10,8 +10,8 @@ title: About
 
 黃智威 ( Jr-Wei Huang ) a.k.a. in0de, Will
 
-目前就讀台灣科技大學資工所, Connectivity Lab
-主要研究主題: IoT firmware security、malware analysis
+畢業於台灣科技大學資工所, Connectivity Lab
+主要研究主題: malware analysis、system security
 
 ### SKILL
 - Programing Language
@@ -32,6 +32,7 @@ title: About
 - CVE-2021-1602 (Remote Command Execution Vulnerability)
 
 ### TRAINING
+- 2022 T5camp - 一日系統底層初探 ( 4hr )
 - 2021 企業教育訓練 - Dynamic Symbolic Execution in IoT ( 6hr )
 - 2021 企業教育訓練 - Windows Reversing ( 6hr )
 - 2021 教育部資訊安全人才培育計畫-網路攻防暨逆向工程工作坊 -Target Attack Analysis and Incident Response ( 3hr )

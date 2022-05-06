@@ -10,10 +10,10 @@
 
 title: in0de                          # the main title
 
-tagline: A CSIE student, CTF player, Security researcher  # it will display as the sub-title
+tagline: CTF player, Security researcher  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A CSIE student, CTF player, Security researcher
+  CTF player, Security researcher
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://Will03.github.io'
