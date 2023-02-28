@@ -24,6 +24,7 @@ title: About
     - ELF, PE, Firmware, Reverse Engineering
 
 ### INTERN
+- 2021 TEAM T5-杜浦數位安全有限公司, Product developer
 - 2020 TEAM T5-杜浦數位安全有限公司, Intern
 - 2019 NICT-日本情報通信研究機構, Intern
 - 2018 安華聯網科技股份有限公司, Intern
@@ -32,6 +33,7 @@ title: About
 - CVE-2021-1602 (Remote Command Execution Vulnerability)
 
 ### TRAINING
+- 2022 iThome CYBERSEC - 威脅獵捕實戰演練 ( 2hr )
 - 2022 T5camp - 一日系統底層初探 ( 4hr )
 - 2021 企業教育訓練 - Dynamic Symbolic Execution in IoT ( 6hr )
 - 2021 企業教育訓練 - Windows Reversing ( 6hr )
@@ -40,6 +42,10 @@ title: About
 - 2020 台科大網路安全 - HTTPS Introduce ( 3hr )
 - 2019 台科大資訊安全導論 - Beginning of CTF ( 3hr )
 - 2018 台科大電腦研習社 - Python 爬蟲 ( 4hr )
+
+### SPEAKING
+- 2023 JSAC - Track Down Stealth Fileless Injection-based Nginx Backdoor in the Attack
+- 2022 HITCON - Every Authorization Has Its Black: Tackling Privilege Escalation in macOS
 
 ### AWARDED
 - 2020 HITCON X BALSN 資安交流經典賽 1st 
